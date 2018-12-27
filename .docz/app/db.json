@@ -1,0 +1,49 @@
+{
+  "config": {
+    "title": "Docz Test",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {
+    "src/components/index.mdx": {
+      "name": "Home",
+      "route": "/",
+      "id": "8f6609a989594e49bce5582173f1be02",
+      "filepath": "src/components/index.mdx",
+      "link": null,
+      "slug": "src-components-index",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "home",
+          "value": "Home"
+        }
+      ]
+    },
+    "src/components/Button/index.mdx": {
+      "name": "Button",
+      "menu": "Components",
+      "id": "a08e664b64d63394cab05b2e5d624522",
+      "filepath": "src/components/Button/index.mdx",
+      "link": null,
+      "slug": "src-components-button-index",
+      "route": "/src-components-button-index",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        }
+      ]
+    }
+  }
+}
